@@ -1,0 +1,16 @@
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.csproj.AssemblyReference.cache
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.AssemblyInfoInputs.cache
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.AssemblyInfo.cs
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.csproj.CoreCompileInputs.cache
+D:\2021-2022\Object Oriented Programming\Hospital-1\bin\Debug\net5.0\Hospital.exe
+D:\2021-2022\Object Oriented Programming\Hospital-1\bin\Debug\net5.0\Hospital.deps.json
+D:\2021-2022\Object Oriented Programming\Hospital-1\bin\Debug\net5.0\Hospital.runtimeconfig.json
+D:\2021-2022\Object Oriented Programming\Hospital-1\bin\Debug\net5.0\Hospital.runtimeconfig.dev.json
+D:\2021-2022\Object Oriented Programming\Hospital-1\bin\Debug\net5.0\Hospital.dll
+D:\2021-2022\Object Oriented Programming\Hospital-1\bin\Debug\net5.0\ref\Hospital.dll
+D:\2021-2022\Object Oriented Programming\Hospital-1\bin\Debug\net5.0\Hospital.pdb
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.dll
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\ref\Hospital.dll
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.pdb
+D:\2021-2022\Object Oriented Programming\Hospital-1\obj\Debug\net5.0\Hospital.genruntimeconfig.cache

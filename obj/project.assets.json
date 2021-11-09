@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2021-2022\\Object Oriented Programming\\Hospital\\Hospital.csproj",
+      "projectUniqueName": "D:\\2021-2022\\Object Oriented Programming\\Hospital-1\\Hospital.csproj",
       "projectName": "Hospital",
-      "projectPath": "D:\\2021-2022\\Object Oriented Programming\\Hospital\\Hospital.csproj",
+      "projectPath": "D:\\2021-2022\\Object Oriented Programming\\Hospital-1\\Hospital.csproj",
       "packagesPath": "C:\\Users\\Gia Minh\\.nuget\\packages\\",
-      "outputPath": "D:\\2021-2022\\Object Oriented Programming\\Hospital\\obj\\",
+      "outputPath": "D:\\2021-2022\\Object Oriented Programming\\Hospital-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gia Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",

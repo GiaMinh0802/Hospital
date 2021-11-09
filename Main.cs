@@ -2,12 +2,11 @@
 
 namespace Hospital
 {
-    class Hospital
-    {
-
-    }
     class Program
     {
-        
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
