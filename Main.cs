@@ -2,6 +2,10 @@
 
 namespace Hospital
 {
+    class Hospital
+    {
+
+    }
     class Program
     {
         
